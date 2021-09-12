@@ -79,4 +79,4 @@ The P value is 0.00000003405
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-I reject the null hypothesis. There is no difference between the Vitamin C content based on the cultivation methods.
+I reject the null hypothesis because the P value is too low below the threshold. The graphical descriptive results show that cabbages grown with method c39 have vitamin C levels between 45-55 while cabbages grown with method c52 have levels between 58-71. The numerical descriptive results show that the average vitamin C levels of cabbages grown with method c39 have an average level of 51.5, while those grown with method c52 have an average level of 64.4
